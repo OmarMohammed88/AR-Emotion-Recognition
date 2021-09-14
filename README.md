@@ -7,3 +7,7 @@
 #### Paid  Dataset
 1. [KSUEmotions](https://catalog.ldc.upenn.edu/LDC2017S12)
 
+
+Models
+Dataset | Model | Accuracy|
+EYSAE | Elgeish | 64 

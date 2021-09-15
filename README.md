@@ -16,12 +16,12 @@ name| Language| Access | Descreption
 
 ## Models
 
-Dataset | Model/Archit | Length(min) | No of records  | Accuracy |ToDo
--------- | -------- |--------|--------|--------|--------
-EYSAE | [Elgeish](https://huggingface.co/elgeish/wav2vec2-large-xlsr-53-arabic) / wav2vec2 | 19 min | 499 | 64 | ✔️
-EYSAE | [othrif](https://huggingface.co/othrif/wav2vec2-large-xlsr-arabic)  / wav2vec2 | 19 min | 499 | 67 |✔️
-EYSAE | hubert-base | 19 min | 499 | 70 | ✔️
-BAVED | Elgeish | 53 min | 1935 | 89 | ✔️
+Dataset | Model/Archit | Length(min) | No of records  | Accuracy |Ckpt|ToDo
+-------- | -------- |--------|--------|--------|-------- | --------
+EYSAE | [Elgeish](https://huggingface.co/elgeish/wav2vec2-large-xlsr-53-arabic) / wav2vec2 | 19 min | 499 | 64 | | ✔️
+EYSAE | [othrif](https://huggingface.co/othrif/wav2vec2-large-xlsr-arabic)  / wav2vec2 | 19 min | 499 | 67 | |✔️
+EYSAE | hubert-base | 19 min | 499 | 70 || ✔️
+BAVED | Elgeish | 53 min | 1935 | 89 | [ckpt](https://wandb.ai/gof/huggingface/runs/17eh53w1?workspace=user-omarmohamed88)|✔️
 BAVED | othrif | 53 min | 1935 | 
 BAVED | hubert-base | 53 min | 1935 | 
 ANAD |  |  min | 1428 | 

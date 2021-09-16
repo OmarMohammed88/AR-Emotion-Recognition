@@ -23,7 +23,7 @@ EYSAE | [Elgeish](https://huggingface.co/elgeish/wav2vec2-large-xlsr-53-arabic) 
 EYSAE | [othrif](https://huggingface.co/othrif/wav2vec2-large-xlsr-arabic)  / wav2vec2 | 19 min | 499 | 67 | |✔️
 EYSAE | [Zaid](https://huggingface.co/Zaid/wav2vec2-large-xlsr-53-arabic-egyptian) / Wave2vec2 | 19 min | 499 | 67 || ✔️
 EYSAE | hubert-base | 19 min | 499 | 70 || ✔️
-EYSAE | hubert-large | 19 min | 499 |  || 
+EYSAE | hubert-large | 19 min | 499 | 64 || ✔️
 BAVED | Elgeish | 53 min | 1935 | 89 | [ckpt](https://wandb.ai/gof/huggingface/runs/17eh53w1?workspace=user-omarmohamed88)|✔️
 BAVED | hubert-base | 53 min | 1935 | 87||✔️
 ANAD |  |  min | 1428 | 

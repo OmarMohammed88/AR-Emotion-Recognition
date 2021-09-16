@@ -1,4 +1,6 @@
 # AR-Emotion-Recognition
+## Architecuture Model
+![Model](imgs/Emotion_Recognition_Digram.png)
 ## Datasets:
 name| Language| Access | Descreption
 -------- | -------- |--------|--------|

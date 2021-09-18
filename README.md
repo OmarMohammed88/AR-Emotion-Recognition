@@ -1,6 +1,11 @@
 # AR-Emotion-Recognition
 ## Architecuture Model
 ![Model](imgs/Emotion_Recognition_Digram.png)
+## Figures
+![Accuracy](imgs/Accuracy.png)
+![confusion_matrix](imgs/confusion_matrix.png)
+![loss](imgs/loss.png)
+
 ## Datasets:
 name| Language| Access | Descreption
 -------- | -------- |--------|--------|

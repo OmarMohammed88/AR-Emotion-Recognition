@@ -1,16 +1,15 @@
 # AR-Emotion-Recognition
 ## Architecuture Model
 ![Model](imgs/Emotion_Recognition_Digram.png)
-## Figures
-### Hubert-base
+<!-- ### Hubert-base
 ![hubert_base](imgs/hubert-base/hubert_base-accu.png)
 ![hubert_base](imgs/hubert-base/hubert_base_losses.png)
-![hubert_base](imgs/hubert-base/confusion_matrix_hubert_base.png)
+![hubert_base](imgs/hubert-base/confusion_matrix_hubert_base.png) -->
 
-### Wav2vec2
+<!-- ### Wav2vec2
 ![Accuracy](imgs/Accuracy.png)
-![confusion_matrix](imgs/confusion_matrix.png)
-![loss](imgs/loss.png)
+![confusion_matrix](imgs/wav2vec2/wav2vec_confusion_matrix.png)
+![loss](imgs/wav2vec2/wav2vec2_loss.png) -->
 
 ## Datasets:
 name| Language| Access | Descreption

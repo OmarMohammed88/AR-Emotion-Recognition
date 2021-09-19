@@ -2,6 +2,12 @@
 ## Architecuture Model
 ![Model](imgs/Emotion_Recognition_Digram.png)
 ## Figures
+### Hubert-base
+![hubert_base](imgs/hubert-base/hubert_base-accu.png)
+![hubert_base](imgs/hubert-base/hubert_base_losses.png)
+![hubert_base](imgs/hubert-base/confusion_matrix_hubert_base.png)
+
+### Wav2vec2
 ![Accuracy](imgs/Accuracy.png)
 ![confusion_matrix](imgs/confusion_matrix.png)
 ![loss](imgs/loss.png)

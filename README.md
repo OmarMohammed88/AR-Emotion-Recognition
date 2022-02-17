@@ -1,4 +1,4 @@
-# AR-Emotion-Recognition
+# Implementaion of  Arabic Speech Emotion Recognition Employing Wav2vec2.0 and HuBERT Based on BAVED Dataset
 ## Architecuture Model
 ![Model](imgs/Emotion_Recognition_Digram.png)
 <!-- ### Hubert-base
